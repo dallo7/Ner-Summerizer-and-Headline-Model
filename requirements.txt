@@ -1,6 +1,6 @@
-dash==2.14.0
-dash_bootstrap_components==1.5.0
-gunicorn
+dash==2.13.0
+dash_bootstrap_components==1.4.2
+gunicorn==21.2.0
 matplotlib==3.5.3
 numpy==1.21.6
 Pillow==9.5.0
