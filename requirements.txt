@@ -1,9 +1,7 @@
 dash==2.14.0
-dash_bootstrap_components==1.4.2
 dash_bootstrap_components==1.5.0
 matplotlib==3.5.3
 numpy==1.21.6
-Pillow==9.5.0
 Pillow==10.1.0
 Requests==2.31.0
 spacy==3.7.2
