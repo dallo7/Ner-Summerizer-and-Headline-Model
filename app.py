@@ -93,6 +93,7 @@ app.layout = dbc.Container([
               Input('submitTextarea', 'n_clicks'), prevent_initial_call=True)
 def update_output(state, n_clicks, ):
     if n_clicks:
+        print(state)
 
         # summerizer!
 
