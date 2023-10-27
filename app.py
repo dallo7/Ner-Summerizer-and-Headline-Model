@@ -5,7 +5,6 @@ import dash
 import base64
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.QUARTZ], title='Ner')
-
 server = app.server
 
 
