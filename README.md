@@ -13,6 +13,11 @@
 
 This Dash web application uses Natural Language Processing (NLP) techniques to analyze and summarize text, with a focus on Named Entity Recognition (NER). It provides insights into the named entities within a text and generates a summary along with a headline.
 
+
+[![Dental Diagnosis Demo Video](https://github.com/dallo7/Ner-Summerizer-and-Headline-Model/blob/ffaf1a59a2a09e72e3c7d684116b5daa5663cbab/ner%20(2).gif)]()
+[![Dental Diagnosis Demo Video](https://github.com/dallo7/Ner-Summerizer-and-Headline-Model/blob/ffaf1a59a2a09e72e3c7d684116b5daa5663cbab/Ner.png)]()
+                    
+
 You can access the tool hosted on render.com  https://ner-summary-headline.onrender.com  (when you click the link give it at least a minute for the service to restart)
 
 ## Table of Contents
